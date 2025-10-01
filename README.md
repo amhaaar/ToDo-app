@@ -1,3 +1,5 @@
+# Collaborative To-Do App 
+
 A full-stack **Collaborative to-do application** built with **Next.js, Neon (PostgreSQL), and Drizzle ORM**.  
 It supports user authentication and task management (add/edit/delete).
 
@@ -8,12 +10,14 @@ It supports user authentication and task management (add/edit/delete).
 - Styled with Tailwind CSS
 
 ## Quick Start
-1. Install dependencies
+
+```bash
+1. Install Dependencies
 npm install
 
-2. Run dev server
+2. Run Dev Server
 npm run dev
-
+```
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/ed94d9f3-88fc-48db-843e-08db2c9f5cce" />
 <img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/39c4d892-9edb-41e9-b6b8-2f5dfe6ffb09" />
