@@ -1,5 +1,5 @@
 A full-stack **Collaborative to-do application** built with **Next.js, Neon (PostgreSQL), and Drizzle ORM**.  
-It supports user authentication andtask management (add/edit/delete).
+It supports user authentication and task management (add/edit/delete).
 
 ## Features
 - User Authentication (Sign up / Sign in / Sign out)
