@@ -1,0 +1,69 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1758970976840,
+      "tag": "0000_broad_lord_hawal",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1759055247620,
+      "tag": "0001_classy_proemial_gods",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1759086489680,
+      "tag": "0002_happy_zeigeist",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1759086775397,
+      "tag": "0003_cool_grandmaster",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1759087522485,
+      "tag": "0004_gorgeous_mandrill",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1759089277694,
+      "tag": "0005_equal_celestials",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1759089927507,
+      "tag": "0006_past_zodiak",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1759108633323,
+      "tag": "0007_deep_lorna_dane",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1759209952059,
+      "tag": "0008_breezy_sinister_six",
+      "breakpoints": true
+    }
+  ]
+}
